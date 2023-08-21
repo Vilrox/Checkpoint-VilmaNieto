@@ -1,0 +1,27 @@
+
+  125  cd Checkpoint-VilmaNieto/
+  126  git init
+  127  git remote add origin https://github.com/Vilrox/Checkpoint-VilmaNieto.git
+  128  git branch -M main
+  129  git push -u origin main
+  130  git status
+  131  git add .
+  132  git commit -m "commit 01 de VilmaNieto"
+  133  git push origin main
+  134  git pull 
+  135  git checkout feature
+  136  git status
+  137  git add .
+  138  git status
+  139  git commit -m "Commit 02 de VilmaNieto"
+  140  git push origin feature 
+  141  git pull
+  142  git checkout main
+  143  git pull
+  144  git pull origin main
+  145  git status
+  146  git history 50 > comandos.txt
+  147  history 50 > comandos.txt
+  148  git add .
+  149  git commit -m "Commit 03 de VilmaNieto"
+  150  git push origin main
